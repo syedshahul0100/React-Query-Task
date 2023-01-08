@@ -1,0 +1,23 @@
+table{
+    margin-left: 100px;
+    background-color:aliceblue;
+}
+td{
+    padding: 26px;
+    font-size: large;
+    font-weight:500;
+    text-align:center ;
+
+}
+
+th{
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+
+th:hover{
+color: rgb(210, 135, 4);
+}

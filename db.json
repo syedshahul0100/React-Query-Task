@@ -1,0 +1,67 @@
+{
+  "Data": [
+    {
+      "firstName": "Syed",
+      "lastName": "Shahul",
+      "email": "shahul0100@gmail.com",
+      "address": "Ramalayam Street",
+      "pincode": "524005",
+      "id": 1
+    },
+    {
+      "firstName": "Syed",
+      "lastName": "Shahul",
+      "email": "shahul0100@gmail.com",
+      "address": "Gowra Fountain Head",
+      "pincode": "524005",
+      "id": 2
+    },
+    {
+      "firstName": "Soma",
+      "lastName": "Shahul",
+      "email": "shahul0100@gmail.com",
+      "address": "Gowra Fountain Head",
+      "pincode": "524005",
+      "id": 3
+    }
+  ],
+  "Places": [
+    {
+      "city": "Hyderabad",
+      "id": 1,
+      "image": "https://static.toiimg.com/photo/msid-94897957,width-96,height-65.cms"
+    },
+    {
+      "city": "Banglore",
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vidhana_Soudha_Bangalore.jpg"
+    },
+    {
+      "city": "Kerla",
+      "id": 3,
+      "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/03101650/10-best-tourist-places-to-visit-in-Kerala-and-things-to-do.jpg"
+    },
+    {
+      "city": "Delhi",
+      "id": 4,
+      "image": "https://cdn.britannica.com/75/152475-050-DA89FF0A/Red-Fort-Old-Delhi-India.jpg"
+    },
+    {
+      "city": "Goa",
+      "id": 5,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vidhana_Soudha_Bangalore.jpg"
+    }
+  ],
+  "Comments": [
+    {
+      "id": 1,
+      "name": "Shahul",
+      "comments": "I love Hyd City"
+    },
+    {
+      "id": 2,
+      "name": "Syed",
+      "comments": "I love Banglore City"
+    }
+  ]
+}
