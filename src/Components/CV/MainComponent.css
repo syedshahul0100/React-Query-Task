@@ -1,0 +1,20 @@
+.leftSideDiv{
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 1px 3px 18px 2px #888888;
+}
+.rightSideDiv{
+  margin: 20px;
+  box-shadow: 1px 3px 18px 2px #888888;
+}
+.Listicon {
+    position: relative;
+    top: 29px;
+    left: -38px;
+  }
+
+  .rightDivIcon{
+    position: relative;
+    top: 29px;
+    left: -38px;
+  }

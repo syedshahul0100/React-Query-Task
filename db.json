@@ -6,23 +6,15 @@
       "email": "shahul0100@gmail.com",
       "address": "Ramalayam Street",
       "pincode": "524005",
-      "id": 1
-    },
-    {
-      "firstName": "Syed",
-      "lastName": "Shahul",
-      "email": "shahul0100@gmail.com",
-      "address": "Gowra Fountain Head",
-      "pincode": "524005",
-      "id": 2
+      "id": 4
     },
     {
       "firstName": "Soma",
       "lastName": "Shahul",
-      "email": "shahul0100@gmail.com",
-      "address": "Gowra Fountain Head",
+      "email": "shahuls@ideyalabs.com",
+      "address": "Ramalayam Street",
       "pincode": "524005",
-      "id": 3
+      "id": 5
     }
   ],
   "Places": [
@@ -62,6 +54,16 @@
       "id": 2,
       "name": "Syed",
       "comments": "I love Banglore City"
+    },
+    {
+      "comments": "I love Delhi",
+      "name": "Soma",
+      "id": 3
+    },
+    {
+      "comments": "Kerla❤️❤️",
+      "name": "Shahul S",
+      "id": 4
     }
   ]
 }
